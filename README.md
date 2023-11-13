@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @unaltzl
-- <h3 align="center">Jr.Data Scientist & Machine Learning Engineer</h3>
+- Jr.Data Scientist & Machine Learning Engineer
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning python & SQL
 - 📫 How to reach me https://www.linkedin.com/in/unal-tozlu-a3676421b/
